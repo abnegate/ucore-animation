@@ -3,10 +3,10 @@
   "name": "com.jakebarnby.ucore-animation",
   "version": "1.0.0",
   "displayName": "UCore Animation",
-  "description": "New package",
+  "description": "UCore Animation Tools",
   "unity": "2019.4",
   "dependencies": {
-    "com.jakebarnby.ucore-events": "git://github.com.abnegate/ucore-events#1.0.0"
+    "com.jakebarnby.ucore-events": "1.0.0"
   },
   "keywords": [
     "ucore",
