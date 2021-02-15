@@ -1,0 +1,23 @@
+{
+  "type": "library",
+  "name": "com.jakebarnby.ucore-animation",
+  "version": "1.0.0",
+  "displayName": "UCore Animation",
+  "description": "New package",
+  "unity": "2019.4",
+  "dependencies": {
+    "com.jakebarnby.ucore-events": "1.0.0"
+  },
+  "keywords": [
+    "animation"
+  ],
+  "author": {
+    "name": "Jake Barnby",
+    "email": "jakeb994@gmail.com",
+    "url": "https://github.com/abnegate"
+  },
+  "git": {
+    "url": "https://github.com/abnegate/ucore-animation",
+    "tag": "1.0.0"
+  }
+}
