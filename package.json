@@ -6,9 +6,10 @@
   "description": "New package",
   "unity": "2019.4",
   "dependencies": {
-    "com.jakebarnby.ucore-events": "1.0.0"
+    "com.jakebarnby.ucore-events": "git://github.com.abnegate/ucore-events#1.0.0"
   },
   "keywords": [
+    "ucore",
     "animation"
   ],
   "author": {
